@@ -7,6 +7,7 @@ public class Main {
     public static void main(String[] args) {
         System.out.println("Hello World");
         System.out.println("Hello World again");
+        System.out.println("My name: Siddhant");
 
         int a = 5;
         char b = 'i';
