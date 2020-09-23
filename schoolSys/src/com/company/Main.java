@@ -45,8 +45,4 @@ public class Main {
         BSK.getInfo();
 
     }
-
-
-
-
 }
