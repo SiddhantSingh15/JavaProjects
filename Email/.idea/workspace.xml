@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="814fe0ad-ac7a-4a32-8eb2-b63da9f49d8b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1e0qI6bvwoqNBQ0D6ZsFToZH7Cu" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.EmailApp" />
+      <module name="Email" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="814fe0ad-ac7a-4a32-8eb2-b63da9f49d8b" name="Default Changelist" comment="" />
+      <created>1593468774757</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593468774757</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1878" height="263" key="GridCell.Tab.0.bottom" timestamp="1593472589921">
+      <screen x="0" y="23" width="1920" height="974" />
+    </state>
+    <state width="1878" height="263" key="GridCell.Tab.0.bottom/0.23.1920.974/-1680.23.1680.1027@0.23.1920.974" timestamp="1593472589921" />
+    <state width="1878" height="263" key="GridCell.Tab.0.center" timestamp="1593472589920">
+      <screen x="0" y="23" width="1920" height="974" />
+    </state>
+    <state width="1878" height="263" key="GridCell.Tab.0.center/0.23.1920.974/-1680.23.1680.1027@0.23.1920.974" timestamp="1593472589920" />
+    <state width="1878" height="263" key="GridCell.Tab.0.left" timestamp="1593472589920">
+      <screen x="0" y="23" width="1920" height="974" />
+    </state>
+    <state width="1878" height="263" key="GridCell.Tab.0.left/0.23.1920.974/-1680.23.1680.1027@0.23.1920.974" timestamp="1593472589920" />
+    <state width="1878" height="263" key="GridCell.Tab.0.right" timestamp="1593472589921">
+      <screen x="0" y="23" width="1920" height="974" />
+    </state>
+    <state width="1878" height="263" key="GridCell.Tab.0.right/0.23.1920.974/-1680.23.1680.1027@0.23.1920.974" timestamp="1593472589921" />
+    <state x="683" y="409" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1593472572823">
+      <screen x="0" y="23" width="1920" height="974" />
+    </state>
+    <state x="683" y="409" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.23.1920.974/-1680.23.1680.1027@0.23.1920.974" timestamp="1593472572823" />
+  </component>
+</project>

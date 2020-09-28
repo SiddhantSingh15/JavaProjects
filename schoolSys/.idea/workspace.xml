@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9e5b95d8-00d2-433a-8f3c-f9f17c413355" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1e2ysuSvHzWYHflygqqmEvTSfFy" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="13" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <module name="untitled104" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9e5b95d8-00d2-433a-8f3c-f9f17c413355" name="Default Changelist" comment="" />
+      <created>1593534192599</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593534192599</updated>
+      <workItem from="1600199301028" duration="114000" />
+      <workItem from="1600264890686" duration="82000" />
+      <workItem from="1600446047298" duration="35000" />
+      <workItem from="1600446093441" duration="11000" />
+      <workItem from="1600864890242" duration="80000" />
+      <workItem from="1600864988345" duration="22000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="448" y="91" key="#Project_Structure" timestamp="1593534196373">
+      <screen x="0" y="23" width="1920" height="974" />
+    </state>
+    <state x="448" y="91" key="#Project_Structure/0.23.1920.974/-1680.23.1680.1027@0.23.1920.974" timestamp="1593534196373" />
+    <state x="424" y="166" width="1071" height="700" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1600199376648">
+      <screen x="0" y="23" width="1920" height="962" />
+    </state>
+    <state x="424" y="166" width="1071" height="700" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1920.962/-1680.23.1680.1027@0.23.1920.962" timestamp="1600199376648" />
+    <state x="773" y="218" key="#com.intellij.ide.util.MemberChooser" timestamp="1593536093205">
+      <screen x="0" y="23" width="1920" height="974" />
+    </state>
+    <state x="773" y="218" key="#com.intellij.ide.util.MemberChooser/0.23.1920.974/-1680.23.1680.1027@0.23.1920.974" timestamp="1593536093205" />
+    <state width="1878" height="259" key="GridCell.Tab.0.bottom" timestamp="1600199413732">
+      <screen x="0" y="23" width="1920" height="962" />
+    </state>
+    <state width="1878" height="259" key="GridCell.Tab.0.bottom/0.23.1920.962/-1680.23.1680.1027@0.23.1920.962" timestamp="1600199413732" />
+    <state width="1878" height="221" key="GridCell.Tab.0.bottom/0.23.1920.974/-1680.23.1680.1027@0.23.1920.974" timestamp="1593544934315" />
+    <state width="1878" height="259" key="GridCell.Tab.0.center" timestamp="1600199413731">
+      <screen x="0" y="23" width="1920" height="962" />
+    </state>
+    <state width="1878" height="259" key="GridCell.Tab.0.center/0.23.1920.962/-1680.23.1680.1027@0.23.1920.962" timestamp="1600199413731" />
+    <state width="1878" height="221" key="GridCell.Tab.0.center/0.23.1920.974/-1680.23.1680.1027@0.23.1920.974" timestamp="1593544934315" />
+    <state width="1878" height="259" key="GridCell.Tab.0.left" timestamp="1600199413730">
+      <screen x="0" y="23" width="1920" height="962" />
+    </state>
+    <state width="1878" height="259" key="GridCell.Tab.0.left/0.23.1920.962/-1680.23.1680.1027@0.23.1920.962" timestamp="1600199413730" />
+    <state width="1878" height="221" key="GridCell.Tab.0.left/0.23.1920.974/-1680.23.1680.1027@0.23.1920.974" timestamp="1593544934315" />
+    <state width="1878" height="259" key="GridCell.Tab.0.right" timestamp="1600199413732">
+      <screen x="0" y="23" width="1920" height="962" />
+    </state>
+    <state width="1878" height="259" key="GridCell.Tab.0.right/0.23.1920.962/-1680.23.1680.1027@0.23.1920.962" timestamp="1600199413732" />
+    <state width="1878" height="221" key="GridCell.Tab.0.right/0.23.1920.974/-1680.23.1680.1027@0.23.1920.974" timestamp="1593544934315" />
+    <state x="448" y="85" key="SettingsEditor" timestamp="1600864898134">
+      <screen x="0" y="23" width="1920" height="965" />
+    </state>
+    <state x="448" y="85" key="SettingsEditor/0.23.1920.965/-1680.23.1680.1027@0.23.1920.965" timestamp="1600864898134" />
+    <state x="625" y="234" width="670" height="676" key="search.everywhere.popup" timestamp="1600446063626">
+      <screen x="0" y="23" width="1920" height="965" />
+    </state>
+    <state x="625" y="234" width="670" height="676" key="search.everywhere.popup/0.23.1920.965/-1680.23.1680.1027@0.23.1920.965" timestamp="1600446063626" />
+  </component>
+</project>
